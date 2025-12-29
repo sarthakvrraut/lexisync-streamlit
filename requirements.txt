@@ -1,0 +1,10 @@
+streamlit
+openai
+openai-whisper
+torch
+numpy
+python-dotenv
+googletrans==4.0.0-rc1
+gspread
+oauth2client
+pyaudio
