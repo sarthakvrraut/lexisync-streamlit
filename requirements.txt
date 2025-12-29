@@ -1,9 +1,10 @@
 streamlit==1.28.0
 openai==0.28.0
-whisper==2023.7.13
+whisper==1.1.10
 googletrans==4.0.0-rc1
 pandas==2.1.0
 python-dotenv==1.0.0
-rich==14.2.0
+rich==13.3.4
 markdown-it-py==4.0.0
 mdurl==0.1.2
+sounddevice==0.8.2
